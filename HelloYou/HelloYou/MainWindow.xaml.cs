@@ -25,7 +25,7 @@ namespace HelloYou
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void BtnConfirm_Click(object sender, RoutedEventArgs e)
         {
             if (RButton1.IsChecked == true)
             {
@@ -40,7 +40,7 @@ namespace HelloYou
             }
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+        private void BtnCancel_Click(object sender, RoutedEventArgs e)
         {
             System.Environment.Exit(1);
         }

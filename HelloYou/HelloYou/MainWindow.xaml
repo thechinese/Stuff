@@ -6,7 +6,7 @@
         <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Select your Option" VerticalAlignment="Top" Width="200" Margin="160,45,157,0" Height="45" TextAlignment="Center"/>
         <RadioButton x:Name="RButton1" Content="Option 1" HorizontalAlignment="Left" Margin="25,132,0,0" VerticalAlignment="Top"/>
         <RadioButton x:Name="RButton2" Content="Option 2" HorizontalAlignment="Left" Margin="25,160,0,0" VerticalAlignment="Top"/>
-        <Button Content="Cancel" HorizontalAlignment="Left" Height="40" Margin="415,260,0,0" VerticalAlignment="Top" Width="85" Click="Button_Click_1"/>
-        <Button Content="Confirm" HorizontalAlignment="Left" Height="40" Margin="320,260,0,0" VerticalAlignment="Top" Width="85" Click="Button_Click"/>
+        <Button x:Name="BtnCancel" Content="Cancel" HorizontalAlignment="Left" Height="40" Margin="415,260,0,0" VerticalAlignment="Top" Width="85" Click="BtnCancel_Click"/>
+        <Button x:Name="BtnConfirm" Content="Confirm" HorizontalAlignment="Left" Height="40" Margin="320,260,0,0" VerticalAlignment="Top" Width="85" Click="BtnConfirm_Click"/>
     </Grid>
 </Window>

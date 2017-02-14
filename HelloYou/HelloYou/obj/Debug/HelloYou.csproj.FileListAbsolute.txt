@@ -1,3 +1,6 @@
+F:\Git\stuff\HelloYou\HelloYou\bin\Debug\HelloYou.exe.config
+F:\Git\stuff\HelloYou\HelloYou\bin\Debug\HelloYou.exe
+F:\Git\stuff\HelloYou\HelloYou\bin\Debug\HelloYou.pdb
 F:\Git\stuff\HelloYou\HelloYou\obj\Debug\MainWindow.baml
 F:\Git\stuff\HelloYou\HelloYou\obj\Debug\MainWindow.g.cs
 F:\Git\stuff\HelloYou\HelloYou\obj\Debug\App.g.cs
@@ -5,8 +8,5 @@ F:\Git\stuff\HelloYou\HelloYou\obj\Debug\HelloYou_MarkupCompile.cache
 F:\Git\stuff\HelloYou\HelloYou\obj\Debug\HelloYou.g.resources
 F:\Git\stuff\HelloYou\HelloYou\obj\Debug\HelloYou.Properties.Resources.resources
 F:\Git\stuff\HelloYou\HelloYou\obj\Debug\HelloYou.csproj.GenerateResource.Cache
-F:\Git\stuff\HelloYou\HelloYou\bin\Debug\HelloYou.exe.config
-F:\Git\stuff\HelloYou\HelloYou\bin\Debug\HelloYou.exe
-F:\Git\stuff\HelloYou\HelloYou\bin\Debug\HelloYou.pdb
 F:\Git\stuff\HelloYou\HelloYou\obj\Debug\HelloYou.exe
 F:\Git\stuff\HelloYou\HelloYou\obj\Debug\HelloYou.pdb
